@@ -1,4 +1,4 @@
-# react-movie
+# Movies API
 
     Responsive React Movies App With API
 
